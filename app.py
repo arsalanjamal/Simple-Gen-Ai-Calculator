@@ -1,4 +1,3 @@
-!pip install streamlit
 import streamlit as st
 
 # Functions for the calculator
