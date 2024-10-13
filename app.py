@@ -43,5 +43,3 @@ def calculator():
 # Call the calculator function to render the app
 if __name__ == "__main__":
     calculator()
-    
-streamlit run app.py
